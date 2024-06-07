@@ -1,0 +1,5 @@
+export * as move from './functions/move'
+export * as click from './functions/click'
+export * as key from './functions/key'
+export * as type from './functions/type'
+export * as wait from './functions/wait'
